@@ -17,3 +17,5 @@ User::User(string username, const char *password) {
 User::User() {
 
 }
+
+
